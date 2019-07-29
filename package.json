@@ -1,0 +1,19 @@
+{
+  "name": "youtube-croper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayunhwan/Youtube-croper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayunhwan/Youtube-croper/issues"
+  },
+  "homepage": "https://github.com/nayunhwan/Youtube-croper#readme"
+}
